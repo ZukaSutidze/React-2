@@ -1,0 +1,14 @@
+body {
+    transition: all 1s;
+    padding-top: 88px;
+    padding-bottom: 88px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-width: 320px;
+    min-height: 100vh;
+    font-family: "Big Shoulders Display" , "Lexend Deca";
+  }
+  
+  

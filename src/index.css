@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Lexend+Deca&family=Outfit:wght@400;700&display=swap');
+
+@media (width > 1439px) {
+  #root{
+    display: flex;
+    flex-direction: row;
+  }
+  
+}
